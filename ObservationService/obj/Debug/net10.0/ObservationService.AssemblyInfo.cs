@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObservationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f79553bdfb07b9c1e521a579456aa8cadb9c6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+041041562c302364fc2ba837d8d5e98bf43f125a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObservationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObservationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
